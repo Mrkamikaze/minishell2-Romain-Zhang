@@ -1,8 +1,8 @@
 # How to use ?
 
-in the console :
-## make re
-## ./mysh
+in the console :\n
+make re
+./mysh
 
-to exit :
+to exit :\n
 Ctrl + d
