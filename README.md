@@ -1,11 +1,11 @@
 # How to use ?
 
-##in the console :
+## in the console :
 
 make re
 
 ./mysh
 
-##to exit :
+## to exit :
 
 Ctrl + d
